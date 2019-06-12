@@ -2,3 +2,5 @@
 逻辑回归/逻辑回归_信用卡欺诈检测/creditcard.csv
 numpy/world_alcohol.csv
 逻辑回归/pga.csv
+titanic/titanic_train.csv
+titanic/test.csv
